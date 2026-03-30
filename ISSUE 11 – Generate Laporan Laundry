@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur laporan laundry
+Agar dapat melihat rekap data
+
+## Acceptance Criteria
+Given admin membuka halaman laporan
+When memilih periode
+Then sistem menampilkan laporan
+
+## Labels
+Product Backlog
+
+## Story Point
+4

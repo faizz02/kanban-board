@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur login
+Agar dapat mengakses dashboard sistem
+
+## Acceptance Criteria
+Given admin berada di halaman login
+When admin memasukkan username dan password yang valid
+Then sistem mengarahkan ke dashboard
+
+## Labels
+Product Backlog
+
+## Story Point
+3

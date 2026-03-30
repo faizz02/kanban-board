@@ -1,0 +1,15 @@
+## User Story
+Sebagai developer
+Saya membutuhkan optimasi database
+Agar sistem lebih cepat
+
+## Acceptance Criteria
+Given query lambat
+When dilakukan optimasi
+Then waktu akses menjadi lebih cepat
+
+## Labels
+Product Backlog, Technical Debt
+
+## Story Point
+3

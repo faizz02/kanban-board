@@ -1,0 +1,15 @@
+## User Story
+Sebagai developer
+Saya membutuhkan refactor kode
+Agar kode lebih rapi dan mudah dikembangkan
+
+## Acceptance Criteria
+Given kode lama sulit dibaca
+When dilakukan refactor
+Then kode menjadi lebih terstruktur
+
+## Labels
+Product Backlog, Technical Debt
+
+## Story Point
+2

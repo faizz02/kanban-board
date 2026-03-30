@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur logout
+Agar dapat keluar dari sistem dengan aman
+
+## Acceptance Criteria
+Given admin sedang login
+When admin klik tombol logout
+Then sistem kembali ke halaman login
+
+## Labels
+Product Backlog
+
+## Story Point
+1

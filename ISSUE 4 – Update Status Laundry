@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur update status laundry
+Agar dapat mengubah status pesanan
+
+## Acceptance Criteria
+Given admin memilih salah satu data laundry
+When admin mengubah status
+Then status tersimpan dan diperbarui
+
+## Labels
+Product Backlog
+
+## Story Point
+3

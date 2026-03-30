@@ -1,0 +1,15 @@
+## User Story
+Sebagai pelanggan
+Saya membutuhkan fitur cek status laundry
+Agar mengetahui progres cucian
+
+## Acceptance Criteria
+Given pelanggan memasukkan kode pesanan
+When pelanggan klik tombol cek
+Then sistem menampilkan status laundry
+
+## Labels
+Product Backlog
+
+## Story Point
+4

@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur melihat data laundry
+Agar dapat memantau semua pesanan
+
+## Acceptance Criteria
+Given admin berada di halaman data laundry
+When halaman dibuka
+Then sistem menampilkan daftar laundry
+
+## Labels
+Product Backlog
+
+## Story Point
+3

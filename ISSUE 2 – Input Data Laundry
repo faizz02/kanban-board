@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur input data laundry
+Agar dapat mencatat pesanan pelanggan
+
+## Acceptance Criteria
+Given admin berada di halaman input laundry
+When admin mengisi data pelanggan dan jenis laundry
+Then data tersimpan di database
+
+## Labels
+Product Backlog
+
+## Story Point
+5

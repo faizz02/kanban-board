@@ -1,0 +1,15 @@
+## User Story
+Sebagai admin
+Saya membutuhkan fitur hapus data laundry
+Agar dapat menghapus data yang tidak diperlukan
+
+## Acceptance Criteria
+Given admin memilih data laundry
+When admin klik tombol hapus
+Then data terhapus dari sistem
+
+## Labels
+Product Backlog
+
+## Story Point
+2
